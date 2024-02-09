@@ -21,12 +21,13 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-python.flake8",
 				"ms-python.python",
 				"ms-azuretools.vscode-docker",
 				"eamodio.gitlens",
                 "github.copilot",
-                "github.copilot-chat"
+                "github.copilot-chat",
+				"ms-python.flake8",
+				"modular-mojotools.vscode-mojo"
 			]
 		}
 	}
