@@ -1,18 +1,6 @@
-# Python Project Template for your projects
+# Mojo playground
 
-Use as a template for python repos, just basics to support python development and testing.
+Aimed to support doing basic mojo development in a containerized environment.
 
+Like the [Hello world](https://docs.modular.com/mojo/manual/get-started/hello-world.html) 
 
-## Run the tests
-```bash
-python -m pytest
-```
-## Debugger
-
-The `launch.json` file includes the necessary config to support using the vscode python debugger with pytest.
-
-
-# Docker Container
-
-Here is the [Dockerfile](https://github.com/phoughton/python_dev_container) for this template repo.
-(Its in a seperate Repo)
